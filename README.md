@@ -11,3 +11,8 @@ $ cd DARK-FACEBOOK
 $ bash install.sh
 $ python2 darkfb.py
 ```
+# LICENSE CODE
+```
+Cek the license code in my youtube channel !
+Youtube : Pengangguran Muda
+```
